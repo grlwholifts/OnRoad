@@ -41,7 +41,7 @@ The collected data goes through a series of processing:
 
 #### Filtering of Data : 
 
-The data is divided into a total of 30 attributes that focus on criteria such as accident-specific, driver-specific and circumstance-specific attributes. The model consists of *K-medoids* and *expectation maximization algorithms* that will be used for clustering the dataset. 
+The data is divided into a total of 30 attributes that focus on criteria such as accident-specific, driver-specific and circumstance-specific attributes.
 The Clusters formed are:
 - Traffic cluster-low high traffic
 - Time of accident-morning, afternoon, night
@@ -51,7 +51,7 @@ The Clusters formed are:
 - Type of accidents - rash driving, drunken driving, vehicle skidding, overriding 
 - Speed of vehicles at the time of accidents
 
-Next, hidden patterns and facts from these clusters using a *priori* algorithm are extracted. These hidden patterns give analysis on various unknown risk factors for fatal accidents and predict accident-prone areas.
+Next, hidden patterns and facts from these clusters are extracted. These hidden patterns give analysis on various unknown risk factors for fatal accidents and predict accident-prone areas.
 
 ### OnRoad App : 
 
