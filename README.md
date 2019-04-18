@@ -11,7 +11,7 @@ The aim of this project is to analyze the smallest details of an accident and ge
 * **Multi-featured Android App** : Generates a *heatmap* displaying accident prone areas in your way and alerts suitably. 
 * **Secured Investigation Portal** : Gives secure access to the collected data via *blockchain* to authorities. 
 
-### Why OnRoad? 
+## Why OnRoad? 
 * Least cost alternatives help in better reachability of the product among the masses. 
 * Less network usability ensures that the product is usable in scarce circumstances. 
 * The crash-proof setup helps to achieve cost effectiveness.
@@ -67,9 +67,14 @@ Next, hidden patterns and facts from these clusters using a *priori* algorithm a
 * The ML *predicted details* regarding all accidents in a particular region are available.
 * *Density histograms* for visualizing region-wise results are shown to help identify the risk of the accident immediately. 
 
+## Local Environment 
+
+Experience OnRoad in your own local environment with our step by step guide. 
+
 ## What Next? 
 
-Coming from a geographically diverse country like India, we plan to take into account various landforms while implementing our proposed system.  Different terrains like mountains, coastal areas etc, call for various types of natural calamities. Our system would be capable of identifying different patterns and changes caused due to these natural or physical calamities. Accordingly, the plan of action would be modified in the ML database. 
-Socially, this project creates a wide impact, by making investigations accurate by providing much more reliable proofs and by making people aware of the potential threats that could be encountered on their way. It provides for an all time road companion that will make your journeys more secure. 
+- Coming from a geographically diverse country like India, we plan to take into account various landforms while implementing our proposed system.  Different terrains like mountains, coastal areas etc, call for various types of natural calamities. Our system would be capable of identifying different patterns and changes caused due to these natural or physical calamities. Accordingly, the plan of action would be modified in the ML database. 
+- Socially, this project creates a wide impact, by making investigations accurate by providing much more reliable proofs and by making people aware of the potential threats that could be encountered on their way. It provides for an all time road companion that will make your journeys more secure. 
 
 
+© Team Celestia
