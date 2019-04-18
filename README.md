@@ -1,10 +1,8 @@
 # OnRoad
 This is a Road Accident Manager and Crash Investigation Pattern Analyser. 
 
-## Problem Objective: 
+## Problem Objective
 Road accidents and injuries occur because of human, vehicle or infrastructure faults or sometimes a combination of all three. Various parameters that affect the crash investigation statistics generate hidden patterns that can be extracted to find the various unknown risk factors behind fatal accidents and predict accident-prone areas. Existing systems lack the ability to investigate because of shortage of non-erroneous post crash data.
-
-The aim of this project is to analyze the smallest details of an accident and generate association rules that will discover the hidden patterns. These form the root causes of the accident and provide a detailed and accurate report for crash investigation with reliable proofs.
 
 ## Warning cum Event Data Recording system 
 * **Crash-proof Hardware** : Capable of recording the *real time accident data* which enhances the authenticity of the model over time. 
